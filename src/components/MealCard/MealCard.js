@@ -11,7 +11,7 @@ const MealCard = (props) => {
     }
     return (
         <div>
-            <Card sx={{ maxWidth: 345 }}>
+            <Card sx={{ maxWidth: 345 , height:450}}>
                 <CardHeader
                     avatar={
                         <Avatar aria-label="recipe">
