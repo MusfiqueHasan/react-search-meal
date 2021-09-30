@@ -1,0 +1,18 @@
+.single-meal-details{
+    height: 100vh;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+.single-meal-btn{
+    border: none;
+    border-radius: 12px;
+    outline: none;
+    font-weight: bolder;
+    margin-top: 40px;
+    padding: 10px 50px;
+    text-transform: uppercase;
+    background-color: rgb(251, 48, 89);
+    cursor: pointer;
+    color: white;
+}

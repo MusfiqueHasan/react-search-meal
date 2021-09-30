@@ -1,0 +1,27 @@
+.search-box{
+    width:510px;     
+    box-shadow: 4px 4px 7px gray;
+    border-radius: 30px;
+    margin: auto;
+    margin-top: 30px;
+    margin-bottom: 80px;
+}
+.search-box input{
+    width: 350px;
+    border: none;
+    outline: none;
+    padding: 20px 20px;
+    border-radius: 30px;
+}
+.search-box .search-btn{
+    border: none;
+    outline: none;
+    color: white;
+    font-size: 14px;
+    cursor: pointer;
+    font-weight: bold;
+    padding: 20px 37px;
+    border-radius: 30px;
+    background-color:crimson;
+} 
+

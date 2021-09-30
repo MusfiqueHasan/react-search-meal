@@ -1,0 +1,11 @@
+.meal-btn{
+    border: none;
+    border-radius: 12px;
+    outline: none;
+    font-weight: bolder;
+    margin-top: 10px;
+    padding: 10px 30px;
+    background-color: rgb(251, 48, 89);
+    cursor: pointer;
+    color: white;
+}
